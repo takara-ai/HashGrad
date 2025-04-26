@@ -2,6 +2,9 @@
 
 From the Frontier Research Team at **Takara.ai** we present HashGrad, a system for generating visually rich colour fields from arbitrary strings using SHA-256 hashing.
 
+This repository contains the testing framework and demo implementation for the paper:  
+**HashGrad: Deterministic Visual Parameter Mapping for Reproducible Gradient Synthesis in AI Training**
+
 ---
 
 This program generates abstract gradient images based on an input text string using SHA-256 hashing to determine various visual parameters like gradient angle, color order, warp effects, and hill waves. It blends two images (one from the input string, one from its reverse) for the final output.
