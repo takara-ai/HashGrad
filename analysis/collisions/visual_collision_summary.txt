@@ -1,0 +1,47 @@
+Visual Collision Analysis Summary (Tue Apr 22 15:39:02 2025)
+========================================
+Parameters:
+  Number of strings tested: 10000
+  Number of strings processed successfully: 10000
+  Number of strings failed: 0
+  Go executable: ./txt-gradient
+  Near collision threshold (Hamming): <= 4
+  Analysis duration: 5752.58 seconds
+
+--- PHash Results ---
+  Unique phashes generated: 10000
+  Strings in exact collisions: 0 (0 colliding groups)
+  Exact PHash Collision Rate (strings involved): 0.0000%
+  Near collision pairs (dist <= 4): 311
+  Near PHash Collision Rate (pairs): 0.0006%
+
+--- DHash Results ---
+  Unique dhashes generated: 8282
+  Strings in exact collisions: 1718 (703 colliding groups)
+  Exact DHash Collision Rate (strings involved): 17.1800%
+  Near collision pairs (dist <= 4): 268049
+  Near DHash Collision Rate (pairs): 0.7817%
+
+Near PHash Colliding Pairs (Hash1, Hash2, Distance <= 4):
+  (aacc19737e739013, aacc19735ed30e13, 4)
+  (d53768296a2a6a3b, d53f6d296a2a6a28, 4)
+  (fff8e1a3e3c0c0c0, fffbe0c1e3c0c0c0, 4)
+  (d4c82cd32dd629d6, d4c826d32dda31d6, 4)
+  (d5802a6f4a5f35e4, d5802a6f4a5f3d70, 3)
+  (d58095bfb0b0a3a7, d58095bfb9b02327, 3)
+  (80d54a6f65766371, 80d54a6f65267673, 4)
+  (a06634793c7a3c7a, 806633793c7a3c7a, 2)
+  (aaaaaaa0a595b7b2, aaaaaaa0b791b792, 4)
+  (ff00e038ee33c83e, ff00e03bce03e83e, 4)
+  (aaaca6aab2aaaaa3, aaa4b6b2b2aaaaa3, 4)
+  (d7d535c932cc13c4, d7d425c932ed13c4, 4)
+  (aad56a2a35161aed, aad56a2a35d24ae5, 4)
+  (f7ecc088d8d0c3d6, ffeac088d8d0c2e6, 4)
+  (d7ffe0c4cec8c0c0, ddffe0c0ceccc0c0, 3)
+  (d7ffe0c4cec8c0c0, fff5e0c2cec8c0c0, 4)
+  (fff3f0c3e2c0c0c0, fffee0e1e2c0c0c0, 4)
+  (fff3f0c3e2c0c0c0, fffdf0c0c2c6c0c0, 4)
+  (fff3f0c3e2c0c0c0, fffbe0c1e3c0c0c0, 4)
+  (802a6fc01fb52f79, 802a7fc01fb527ec, 4)
+  ... (further pairs omitted)
+

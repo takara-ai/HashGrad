@@ -1,0 +1,43 @@
+Test Description: Input: 'testing2'
+Generation Duration: 378.27075ms
+
+--- Input Seeds ---
+angleSeed: 0.000000
+warpFreqX: 0.000000
+warpAmpX:  0.000000
+warpFreqY: 0.000000
+warpAmpY:  0.000000
+hillFreq:  0.000000
+hillAmp:   0.000000
+colorOrder: 0
+
+--- Calculated Parameters ---
+angleDegrees: 94.312505
+angleSeed: 0.261979
+dx: -0.075196
+dy: 0.997169
+hillAmpSeed: 0.250980
+hillAmplitude: 0.112745
+hillFreqSeed: 0.928377
+hillFreqX: -0.000337
+hillFreqY: 0.004475
+hillFrequency: 0.004487
+hillNumCycles: 0.714188
+hillPhase: 2.064003
+hillPhaseSeed: 0.328496
+imgDiagonal: 1000.000000
+orderIndex: 1.000000
+warpAmpX: 92.747387
+warpAmpXSeed: 0.463737
+warpAmpY: 190.435645
+warpAmpYSeed: 0.952178
+warpFreqX: 0.003480
+warpFreqXCycles: 0.553796
+warpFreqXSeed: 0.607593
+warpFreqY: 0.004696
+warpFreqYCycles: 0.747380
+warpFreqYSeed: 0.994761
+warpPhaseX: 3.611142
+warpPhaseXSeed: 0.574731
+warpPhaseY: 4.986952
+warpPhaseYSeed: 0.793698

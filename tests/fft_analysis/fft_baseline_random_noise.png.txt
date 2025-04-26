@@ -1,0 +1,8 @@
+Parameters for original image: tests/baselines/random_noise.png
+Corresponding raw FFT spectrum image: fft_baseline_random_noise.png
+
+{
+    "description": "Baseline: Random Noise",
+    "fft_mean_log_magnitude_no_dc": 9.573099483500869,
+    "fft_stddev_log_magnitude_no_dc": 0.6417427200689302
+}

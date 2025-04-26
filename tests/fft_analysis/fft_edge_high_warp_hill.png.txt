@@ -1,0 +1,16 @@
+Parameters for original image: tests/edge_cases/test_5.png
+Corresponding raw FFT spectrum image: fft_edge_high_warp_hill.png
+
+{
+    "angleSeed": 0.25,
+    "warpFreqX": 0.9,
+    "warpAmpX": 0.8,
+    "warpFreqY": 0.9,
+    "warpAmpY": 0.8,
+    "hillFreq": 0.9,
+    "hillAmp": 0.9,
+    "colorOrder": 0,
+    "description": "Edge: High warp & hill interaction",
+    "fft_mean_log_magnitude_no_dc": 3.889640550553032,
+    "fft_stddev_log_magnitude_no_dc": 0.7548954422047935
+}

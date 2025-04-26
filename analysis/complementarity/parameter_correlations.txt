@@ -1,0 +1,16 @@
+Correlation Analysis Results (10000 random strings)
+==================================================
+Parameter Seed       | Correlation(orig, rev)   
+--------------------------------------------------
+angleSeed            | 0.009386                 
+warpFreqXSeed        | 0.012121                 
+warpAmpXSeed         | -0.010971                
+warpPhaseXSeed       | 0.000822                 
+warpFreqYSeed        | -0.013893                
+warpAmpYSeed         | 0.017252                 
+warpPhaseYSeed       | -0.016549                
+hillFreqSeed         | -0.019236                
+hillPhaseSeed        | 0.001286                 
+orderIndexSeed       | 0.003616                 
+hillAmpSeed          | -0.007132                
+--------------------------------------------------

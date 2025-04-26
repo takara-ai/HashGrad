@@ -1,0 +1,43 @@
+Test Description: Edge: High warp & hill interaction
+Generation Duration: 128.386667ms
+
+--- Input Seeds ---
+angleSeed: 0.250000
+warpFreqX: 0.900000
+warpAmpX:  0.800000
+warpFreqY: 0.900000
+warpAmpY:  0.800000
+hillFreq:  0.900000
+hillAmp:   0.900000
+colorOrder: 0
+
+--- Calculated Parameters ---
+angleDegrees: 90.000000
+angleSeed: 0.250000
+dx: 0.000000
+dy: 1.000000
+hillAmpSeed: 0.898039
+hillAmplitude: 0.274510
+hillFreqSeed: 0.900000
+hillFreqX: 0.000000
+hillFreqY: 0.004398
+hillFrequency: 0.004398
+hillNumCycles: 0.700000
+hillPhase: 4.342766
+hillPhaseSeed: 0.691173
+imgDiagonal: 1000.000000
+orderIndex: 0.000000
+warpAmpX: 160.000000
+warpAmpXSeed: 0.800000
+warpAmpY: 160.000000
+warpAmpYSeed: 0.800000
+warpFreqX: 0.003463
+warpFreqXCycles: 0.551147
+warpFreqXSeed: 0.602294
+warpFreqY: 0.004398
+warpFreqYCycles: 0.700000
+warpFreqYSeed: 0.900000
+warpPhaseX: 5.107179
+warpPhaseXSeed: 0.812833
+warpPhaseY: 3.194947
+warpPhaseYSeed: 0.508492

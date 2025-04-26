@@ -1,0 +1,299 @@
+Color Palette Analysis Results
+==========================
+
+Palette: original
+Description: Original red-white-gray palette
+Colors: #d91009, #FFFFFF, #4A4D4E
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+
+Palette: monochrome
+Description: Monochromatic grayscale palette
+Colors: #000000, #808080, #FFFFFF
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+
+Palette: complementary
+Description: RGB complementary colors
+Colors: #FF0000, #00FF00, #0000FF
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+
+Palette: analogous
+Description: Analogous warm colors
+Colors: #FF8800, #FFCC00, #FF4400
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+
+Palette: triadic
+Description: Triadic color harmony
+Colors: #FF00FF, #00FFFF, #FFFF00
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+
+Palette: pastel
+Description: Soft pastel colors
+Colors: #FFB3B3, #B3FFB3, #B3B3FF
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+
+Palette: earth
+Description: Earth tones
+Colors: #8B4513, #DAA520, #556B2F
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+
+Palette: ocean
+Description: Ocean-inspired colors
+Colors: #000080, #40E0D0, #87CEEB
+
+Generated Parameters:
+  angleDegrees: 74.151546
+  angleSeed: 0.205977
+  dx: 0.273094
+  dy: 0.961987
+  hillAmpSeed: 0.211765
+  hillAmplitude: 0.102941
+  hillFreqSeed: 0.570211
+  hillFreqX: 0.000918
+  hillFreqY: 0.003234
+  hillFrequency: 0.003362
+  hillNumCycles: 0.535105
+  hillPhase: 1.941186
+  hillPhaseSeed: 0.308949
+  imgDiagonal: 1000.000000
+  orderIndex: 4.000000
+  warpAmpX: 145.659571
+  warpAmpXSeed: 0.728298
+  warpAmpY: 29.343099
+  warpAmpYSeed: 0.146715
+  warpFreqX: 0.003966
+  warpFreqXCycles: 0.631174
+  warpFreqXSeed: 0.762347
+  warpFreqY: 0.004183
+  warpFreqYCycles: 0.665821
+  warpFreqYSeed: 0.831642
+  warpPhaseX: 3.011730
+  warpPhaseXSeed: 0.479332
+  warpPhaseY: 1.041972
+  warpPhaseYSeed: 0.165835
+
+----------------------------
+

@@ -1,0 +1,43 @@
+Test Description: Ablation: Warp Only
+Generation Duration: 255.560208ms
+
+--- Input Seeds ---
+angleSeed: 0.250000
+warpFreqX: 0.500000
+warpAmpX:  0.500000
+warpFreqY: 0.500000
+warpAmpY:  0.500000
+hillFreq:  0.500000
+hillAmp:   0.000000
+colorOrder: 0
+
+--- Calculated Parameters ---
+angleDegrees: 90.000000
+angleSeed: 0.250000
+dx: 0.000000
+dy: 1.000000
+hillAmpSeed: 0.000000
+hillAmplitude: 0.000000
+hillFreqSeed: 0.500000
+hillFreqX: 0.000000
+hillFreqY: 0.003142
+hillFrequency: 0.003142
+hillNumCycles: 0.500000
+hillPhase: 4.342766
+hillPhaseSeed: 0.691173
+imgDiagonal: 1000.000000
+orderIndex: 0.000000
+warpAmpX: 99.998474
+warpAmpXSeed: 0.499992
+warpAmpY: 99.998474
+warpAmpYSeed: 0.499992
+warpFreqX: 0.003463
+warpFreqXCycles: 0.551147
+warpFreqXSeed: 0.602294
+warpFreqY: 0.003142
+warpFreqYCycles: 0.500000
+warpFreqYSeed: 0.500000
+warpPhaseX: 5.107179
+warpPhaseXSeed: 0.812833
+warpPhaseY: 3.194947
+warpPhaseYSeed: 0.508492

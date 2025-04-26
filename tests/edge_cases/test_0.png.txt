@@ -1,0 +1,43 @@
+Test Description: Edge: Near zero warp freq/amp
+Generation Duration: 266.161834ms
+
+--- Input Seeds ---
+angleSeed: 0.250000
+warpFreqX: 0.010000
+warpAmpX:  0.050000
+warpFreqY: 0.010000
+warpAmpY:  0.050000
+hillFreq:  0.500000
+hillAmp:   0.500000
+colorOrder: 0
+
+--- Calculated Parameters ---
+angleDegrees: 90.000000
+angleSeed: 0.250000
+dx: 0.000000
+dy: 1.000000
+hillAmpSeed: 0.498039
+hillAmplitude: 0.174510
+hillFreqSeed: 0.500000
+hillFreqX: 0.000000
+hillFreqY: 0.003142
+hillFrequency: 0.003142
+hillNumCycles: 0.500000
+hillPhase: 4.342766
+hillPhaseSeed: 0.691173
+imgDiagonal: 1000.000000
+orderIndex: 0.000000
+warpAmpX: 9.997711
+warpAmpXSeed: 0.049989
+warpAmpY: 9.997711
+warpAmpYSeed: 0.049989
+warpFreqX: 0.003463
+warpFreqXCycles: 0.551147
+warpFreqXSeed: 0.602294
+warpFreqY: 0.001602
+warpFreqYCycles: 0.255000
+warpFreqYSeed: 0.010000
+warpPhaseX: 5.107179
+warpPhaseXSeed: 0.812833
+warpPhaseY: 3.194947
+warpPhaseYSeed: 0.508492

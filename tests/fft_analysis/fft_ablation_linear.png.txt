@@ -1,0 +1,16 @@
+Parameters for original image: tests/ablation/test_0.png
+Corresponding raw FFT spectrum image: fft_ablation_linear.png
+
+{
+    "angleSeed": 0.25,
+    "warpFreqX": 0.5,
+    "warpAmpX": 0.0,
+    "warpFreqY": 0.5,
+    "warpAmpY": 0.0,
+    "hillFreq": 0.5,
+    "hillAmp": 0.0,
+    "colorOrder": 0,
+    "description": "Ablation: Linear Gradient",
+    "fft_mean_log_magnitude_no_dc": 1.9672821848000615,
+    "fft_stddev_log_magnitude_no_dc": 0.9958621074151595
+}

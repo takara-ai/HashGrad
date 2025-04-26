@@ -1,0 +1,16 @@
+Parameters for original image: tests/edge_cases/test_0.png
+Corresponding raw FFT spectrum image: fft_edge_near_zero_warp.png
+
+{
+    "angleSeed": 0.25,
+    "warpFreqX": 0.01,
+    "warpAmpX": 0.05,
+    "warpFreqY": 0.01,
+    "warpAmpY": 0.05,
+    "hillFreq": 0.5,
+    "hillAmp": 0.5,
+    "colorOrder": 0,
+    "description": "Edge: Near zero warp freq/amp",
+    "fft_mean_log_magnitude_no_dc": 2.5637618683886583,
+    "fft_stddev_log_magnitude_no_dc": 0.9865815386923983
+}

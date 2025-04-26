@@ -1,0 +1,16 @@
+Parameters for original image: tests/hill/test_2.png
+Corresponding raw FFT spectrum image: fft_hill_high_freq_amp.png
+
+{
+    "angleSeed": 0.25,
+    "warpFreqX": 0.5,
+    "warpAmpX": 0.5,
+    "warpFreqY": 0.5,
+    "warpAmpY": 0.5,
+    "hillFreq": 0.9,
+    "hillAmp": 0.9,
+    "colorOrder": 0,
+    "description": "Hill Freq/Amp: High (0.9)",
+    "fft_mean_log_magnitude_no_dc": 3.6404831485835696,
+    "fft_stddev_log_magnitude_no_dc": 0.8767962617734157
+}

@@ -1,0 +1,43 @@
+Test Description: Smoothstep Clamping
+Source Image: clamping_smoothstep.png
+
+--- Forced Parameters (Input Seeds) ---
+angleSeed: 0.700000
+warpFreqX: 0.800000
+warpAmpX:  0.600000
+warpFreqY: 0.800000
+warpAmpY:  0.600000
+hillFreq:  0.900000
+hillAmp:   0.950000
+colorOrder: 0
+
+--- Calculated Parameters ---
+angleDegrees: 89.859375
+angleSeed: 0.249609
+dx: 0.002454
+dy: 0.999997
+hillAmpSeed: 0.949020
+hillAmplitude: 0.287255
+hillFreqSeed: 0.900000
+hillFreqX: 0.000011
+hillFreqY: 0.004398
+hillFrequency: 0.004398
+hillNumCycles: 0.700000
+hillPhase: 6.261038
+hillPhaseSeed: 0.996475
+imgDiagonal: 1000.000000
+orderIndex: 0.000000
+warpAmpX: 120.000000
+warpAmpXSeed: 0.600000
+warpAmpY: 120.000000
+warpAmpYSeed: 0.600000
+warpFreqX: 0.004084
+warpFreqXCycles: 0.650000
+warpFreqXSeed: 0.800000
+warpFreqY: 0.004084
+warpFreqYCycles: 0.650000
+warpFreqYSeed: 0.800000
+warpPhaseX: 2.617203
+warpPhaseXSeed: 0.416541
+warpPhaseY: 6.236878
+warpPhaseYSeed: 0.992630

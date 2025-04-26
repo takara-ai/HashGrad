@@ -1,0 +1,56 @@
+Performance Benchmark Results
+==========================
+
+Image dimensions: 800x600
+Each test averaged over 100 iterations
+
+Test: baseline
+Parameters:
+  Angle Seed: 0.25
+  Warp Freq X/Y: 0.50/0.50
+  Warp Amp X/Y: 0.50/0.50
+  Hill Freq/Amp: 0.50/0.50
+Average Generation Time: 21.13 ms
+Average Image Size: 70.10 KB
+----------------------------
+
+Test: high_warp_freq
+Parameters:
+  Angle Seed: 0.25
+  Warp Freq X/Y: 0.90/0.90
+  Warp Amp X/Y: 0.50/0.50
+  Hill Freq/Amp: 0.50/0.50
+Average Generation Time: 23.40 ms
+Average Image Size: 82.50 KB
+----------------------------
+
+Test: high_hill_freq
+Parameters:
+  Angle Seed: 0.25
+  Warp Freq X/Y: 0.50/0.50
+  Warp Amp X/Y: 0.50/0.50
+  Hill Freq/Amp: 0.90/0.90
+Average Generation Time: 22.05 ms
+Average Image Size: 78.73 KB
+----------------------------
+
+Test: max_complexity
+Parameters:
+  Angle Seed: 0.25
+  Warp Freq X/Y: 0.90/0.90
+  Warp Amp X/Y: 0.90/0.90
+  Hill Freq/Amp: 0.90/0.90
+Average Generation Time: 21.84 ms
+Average Image Size: 111.54 KB
+----------------------------
+
+Test: min_complexity
+Parameters:
+  Angle Seed: 0.25
+  Warp Freq X/Y: 0.10/0.10
+  Warp Amp X/Y: 0.10/0.10
+  Hill Freq/Amp: 0.10/0.10
+Average Generation Time: 23.12 ms
+Average Image Size: 44.99 KB
+----------------------------
+

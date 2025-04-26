@@ -1,0 +1,16 @@
+Parameters for original image: tests/ablation/test_3.png
+Corresponding raw FFT spectrum image: fft_ablation_standard.png
+
+{
+    "angleSeed": 0.25,
+    "warpFreqX": 0.5,
+    "warpAmpX": 0.5,
+    "warpFreqY": 0.5,
+    "warpAmpY": 0.5,
+    "hillFreq": 0.5,
+    "hillAmp": 0.5,
+    "colorOrder": 0,
+    "description": "Ablation: Standard (Warp+Hill)",
+    "fft_mean_log_magnitude_no_dc": 3.6774998891441912,
+    "fft_stddev_log_magnitude_no_dc": 0.8693566532000865
+}

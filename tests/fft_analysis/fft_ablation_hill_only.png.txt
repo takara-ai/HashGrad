@@ -1,0 +1,16 @@
+Parameters for original image: tests/ablation/test_2.png
+Corresponding raw FFT spectrum image: fft_ablation_hill_only.png
+
+{
+    "angleSeed": 0.25,
+    "warpFreqX": 0.5,
+    "warpAmpX": 0.0,
+    "warpFreqY": 0.5,
+    "warpAmpY": 0.0,
+    "hillFreq": 0.5,
+    "hillAmp": 0.5,
+    "colorOrder": 0,
+    "description": "Ablation: Hill Only",
+    "fft_mean_log_magnitude_no_dc": 2.3461746323085744,
+    "fft_stddev_log_magnitude_no_dc": 0.9941772092617932
+}

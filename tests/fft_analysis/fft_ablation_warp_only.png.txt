@@ -1,0 +1,16 @@
+Parameters for original image: tests/ablation/test_1.png
+Corresponding raw FFT spectrum image: fft_ablation_warp_only.png
+
+{
+    "angleSeed": 0.25,
+    "warpFreqX": 0.5,
+    "warpAmpX": 0.5,
+    "warpFreqY": 0.5,
+    "warpAmpY": 0.5,
+    "hillFreq": 0.5,
+    "hillAmp": 0.0,
+    "colorOrder": 0,
+    "description": "Ablation: Warp Only",
+    "fft_mean_log_magnitude_no_dc": 3.5127470549413617,
+    "fft_stddev_log_magnitude_no_dc": 0.8801387183580522
+}
