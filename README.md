@@ -1,4 +1,8 @@
-# Text to Gradient Generator
+<img src="https://takara.ai/images/logo-24/TakaraAi.svg" width="200" alt="Takara.ai Logo" />
+
+From the Frontier Research Team at **Takara.ai** we present HashGrad, a system for generating visually rich colour fields from arbitrary strings using SHA-256 hashing.
+
+---
 
 This program generates abstract gradient images based on an input text string using SHA-256 hashing to determine various visual parameters like gradient angle, color order, warp effects, and hill waves. It blends two images (one from the input string, one from its reverse) for the final output.
 
@@ -137,3 +141,9 @@ Several Python scripts are included for analysis and visualization purposes. Ens
     - The pixel color is determined by linearly interpolating between three base colors based on `tFinal`. The order of these three colors is determined by the color order parameter.
 4.  **Concurrency & Blending:** Two images are generated concurrently (one for the original string hash, one for the reversed string hash). These two images are then blended pixel-by-pixel (averaging RGB values) in parallel.
 5.  **Output:** The final blended image is saved as a PNG file.
+
+---
+
+For research inquiries and press, please reach out to research@takara.ai
+
+> 人類を変革する
