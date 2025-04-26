@@ -142,6 +142,20 @@ Several Python scripts are included for analysis and visualization purposes. Ens
 4.  **Concurrency & Blending:** Two images are generated concurrently (one for the original string hash, one for the reversed string hash). These two images are then blended pixel-by-pixel (averaging RGB values) in parallel.
 5.  **Output:** The final blended image is saved as a PNG file.
 
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@article{legg2025hashgrad,
+  title={HashGrad: Deterministic Visual Parameter Mapping for Reproducible Gradient Synthesis in AI Training},
+  author={Legg, Jordan and {Takara.ai}},
+  journal={Takara.ai Research},
+  year={2025},
+  url={https://takara.ai/papers/HashGrad.pdf}
+}
+```
+
 ---
 
 For research inquiries and press, please reach out to research@takara.ai
